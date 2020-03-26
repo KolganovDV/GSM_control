@@ -16,4 +16,12 @@
     <string name="attachment_summary_on">Automatically download attachments for incoming emails
     </string>
     <string name="attachment_summary_off">Only download attachments when manually requested</string>
+
+    <!-- Button names -->
+    <string name="btn1_name">SET</string>
+    <string name="btn2_name">RELE1 on</string>
+    <string name="btn3_name">RELE1 off</string>
+    <string name="btn5_name">RELE2 on</string>
+    <string name="btn6_name">RELE2 off</string>
+    <string name="btn4_name">Get info</string>
 </resources>
